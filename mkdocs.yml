@@ -1,0 +1,7 @@
+site_name: CetCLib
+site_url: https://emirus.xyz/library
+nav:
+    - Home: index.md
+    - About: about.md
+
+theme: readthedocs
